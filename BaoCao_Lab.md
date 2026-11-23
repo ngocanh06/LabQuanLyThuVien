@@ -1,4 +1,4 @@
-﻿# BÁO CÁO BÀI THỰC HÀNH (LAB)
+# BÁO CÁO BÀI THỰC HÀNH (LAB)
 # PHÂN TÍCH, THIẾT KẾ VÀ XÂY DỰNG HỆ THỐNG QUẢN LÝ THƯ VIỆN ỨNG DỤNG CÔNG CỤ AI
 
 * **Học phần:** Phát triển Ứng dụng / Công nghệ Phần mềm
