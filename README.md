@@ -3,14 +3,14 @@
 
 ---
 
-## 📌 Thông tin sinh viên
+## Thông tin sinh viên
 * **Họ và tên:** Trần Thị Ngọc Ánh
 * **Mã số sinh viên (MSSV):** 29209243814
 * **Đơn vị:** Khoa Công nghệ Thông tin
 
 ---
 
-## 🚀 Tính năng nổi bật của ứng dụng
+## Tính năng nổi bật của ứng dụng
 1. **Bảng điều khiển (Dashboard):** Thống kê số lượng đầu sách, tồn kho thực tế, số lượt mượn đang diễn ra và số lượt quá hạn.
 2. **Quản lý Sách:** Thêm, sửa, xóa, tìm kiếm đa tiêu chí theo tên sách, tác giả, thể loại. Kiểm soát chính xác số lượng tồn kho khả dụng.
 3. **Quản lý Độc giả:** Quản lý thông tin thẻ thư viện, đổi trạng thái thẻ (Hoạt động / Tạm khóa), ngăn chặn mượn sách đối với thẻ bị khóa.
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠 Hướng dẫn cài đặt và khởi chạy ứng dụng
+## Hướng dẫn cài đặt và khởi chạy ứng dụng
 
 Ứng dụng được thiết kế theo kiến trúc chuẩn Web Single Page Application (SPA), không phụ thuộc vào máy chủ cơ sở dữ liệu phức tạp.
 
@@ -42,7 +42,7 @@ Nếu có cài đặt Node.js hoặc Visual Studio Code / Antigravity IDE:
 
 ---
 
-## 📂 Cấu trúc thư mục nộp bài
+## Cấu trúc thư mục nộp bài
 ```text
 Lab_QLThuVien_29209243814_TranThiNgocAnh/
 ├── src/
@@ -57,5 +57,5 @@ Lab_QLThuVien_29209243814_TranThiNgocAnh/
 
 ---
 
-## 🌐 Liên kết mã nguồn (Repository)
-* **GitHub Repository:** `https://github.com/[your-username]/Lab_QLThuVien_29209243814_TranThiNgocAnh` *(Sinh viên cập nhật link sau khi đẩy lên GitHub)*
+## Liên kết mã nguồn (Repository)
+* **GitHub Repository:** `https://github.com/ngocanh06/LabQuanLyThuVien
