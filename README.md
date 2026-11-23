@@ -4,7 +4,7 @@
 ---
 
 ## Thông tin sinh viên
-* **Họ và tên:** Trần Thị Ngọc Ánh
+* **Họ và tên:** Trần Thị Ngọc Anh
 * **Mã số sinh viên (MSSV):** 29209243814
 * **Đơn vị:** Khoa Công nghệ Thông tin
 
@@ -23,7 +23,7 @@
 
 ---
 
-## Hướng dẫn cài đặt và khởi chạy ứng dụng
+## 🛠 Hướng dẫn cài đặt và khởi chạy ứng dụng
 
 Ứng dụng được thiết kế theo kiến trúc chuẩn Web Single Page Application (SPA), không phụ thuộc vào máy chủ cơ sở dữ liệu phức tạp.
 
@@ -51,11 +51,12 @@ Lab_QLThuVien_29209243814_TranThiNgocAnh/
 ├── docs/                   # Ảnh chụp màn hình Google AI Studio & Antigravity IDE
 │   ├── ai_studio.png       # Ảnh chụp quá trình dùng Google AI Studio
 │   └── antigravity_ide.png # Ảnh chụp giao diện làm việc trên Antigravity IDE
-├── BaoCao_Lab.md           # Báo cáo phân tích, thiết kế & kiểm thử chi tiết
+├── BaoCao_Lab.pdf          # Báo cáo phân tích, thiết kế & kiểm thử chuẩn đẹp (PDF)
+├── BaoCao_Lab.md           # Bản báo cáo định dạng Markdown dự phòng
 └── README.md               # Hướng dẫn cài đặt và khởi chạy
 ```
 
 ---
 
 ## Liên kết mã nguồn (Repository)
-* **GitHub Repository:** `https://github.com/ngocanh06/LabQuanLyThuVien
+* **GitHub Repository:** `https://github.com/ngocanh06/LabQuanLyThuVien`
