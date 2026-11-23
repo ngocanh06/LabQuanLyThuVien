@@ -17,6 +17,10 @@ Dưới góc độ kết hợp giữa **Business Analyst (BA)** và **Senior Dev
 * **Thủ thư (Librarian):** Người trực tiếp vận hành hệ thống tại quầy (quản lý kho sách, cấp/khóa thẻ độc giả, thực hiện cho mượn/trả sách, xử lý hư hỏng, thu phí phạt).
 * **Độc giả (Reader):** Đối tượng được quản lý thông tin mượn/trả, tra cứu sách và nhận thông báo nhắc hạn.
 
+### 1.2. Minh chứng khảo sát & prompt trên Google AI Studio
+![Minh chứng làm việc trên Google AI Studio](docs/ai_studio.png)
+*Hình 1: Thao tác prompt phân tích nghiệp vụ và kiến trúc hệ thống trên Google AI Studio (Tài khoản sinh viên: tranthingocanh136@...)*
+
 ---
 
 ## PHẦN 2: PHÂN TÍCH NGHIỆP VỤ & QUY TẮC CỐT LÕI (BUSINESS RULES)
@@ -260,3 +264,7 @@ flowchart TD
 | **TC05** | Kiểm tra BR-04 (Trả lẻ từng cuốn) | Trả 1 trong 2 cuốn trong phiếu mượn. | Phiếu chuyển sang `PARTIAL_RETURNED`, cuốn đã trả tăng lại tồn kho. | **PASS** |
 | **TC06** | Xử lý sách bị mất (`LOST`) | Chọn tình trạng trả sách là `LOST`. | Không cộng lại `available_quantity`, giảm `total_quantity` đi 1 và tính phí đền bù. | **PASS** |
 | **TC07** | Tra cứu AI Assistant | Hỏi: *"Gợi ý sách về Trí tuệ nhân tạo và Machine Learning"*. | AI đề xuất chính xác các sách thuộc thể loại AI kèm trạng thái còn/hết sách. | **PASS** |
+
+### 6.2. Minh chứng môi trường phát triển & kiểm thử trên Antigravity IDE
+![Minh chứng môi trường phát triển Antigravity IDE](docs/antigravity_ide.png)
+*Hình 4: Môi trường lập trình, kiểm thử và chạy ứng dụng cục bộ trên Antigravity IDE*

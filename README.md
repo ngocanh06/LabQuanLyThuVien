@@ -48,9 +48,12 @@ Lab_QLThuVien_29209243814_TranThiNgocAnh/
 ├── src/
 │   ├── index.html          # Giao diện chính ứng dụng
 │   └── app.js              # Nghiệp vụ xử lý, dữ liệu mẫu & LocalStorage
-├── docs/                   # Ảnh chụp màn hình Google AI Studio & Antigravity IDE
-│   ├── ai_studio.png       # Ảnh chụp quá trình dùng Google AI Studio
-│   └── antigravity_ide.png # Ảnh chụp giao diện làm việc trên Antigravity IDE
+├── docs/                   # Ảnh sơ đồ quy trình & hướng dẫn
+│   ├── quy_trinh_muon_sach.png
+│   ├── quy_trinh_muon_sach.svg
+│   ├── quy_trinh_tra_sach.png
+│   ├── quy_trinh_tra_sach.svg
+│   └── HUONG_DAN_ANH.md
 ├── BaoCao_Lab.pdf          # Báo cáo phân tích, thiết kế & kiểm thử chuẩn đẹp (PDF)
 ├── BaoCao_Lab.md           # Bản báo cáo định dạng Markdown dự phòng
 └── README.md               # Hướng dẫn cài đặt và khởi chạy
